@@ -8,7 +8,7 @@ Fraud detection is a set of processes and analyses that allow businesses to iden
 
 [![View on GitHub](https://github.com/ravikantydv/FreelancingProjects/blob/39bef55407121f0ff7c4454672a3e256882c72e1/Fraud_model_for_US_.ipynb)
 
-<center><img src="C:\Users\hp\Downloads\OIP (1).jpeg"/></center>
+<center><img src="https://github.com/ravikantydv/minimal/blob/14862820c8a845c6e94fe0bb32a85caa93205b5c/assets/img/OIP%20(1).jpeg"/></center>
 
 ---
 ### Investment Prediction
