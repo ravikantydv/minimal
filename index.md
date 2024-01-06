@@ -20,7 +20,7 @@ This is just a collection of topics and algorithms that in my opinion are intere
 It contains several topics that are not so popular nowadays, but that can be very powerful. Usually, topics such as PDE methods, Lévy processes, Fourier methods or Kalman filter are not very popular among practitioners, who prefers to work with more standard tools.
 The aim of these notebooks is to present these interesting topics, by showing their practical application through an interactive python implementation.
 
-<center><img src="C:\Users\hp\Downloads\OIP (2).jpeg"/></center>
+<center><img src="https://github.com/ravikantydv/minimal/blob/b46f9bee610317c6017204c9c6ffeeef4b20a5aa/assets/img/OIP%20(2).jpeg"/></center>
 
 
 
