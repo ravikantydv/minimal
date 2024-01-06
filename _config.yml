@@ -1,6 +1,17 @@
-title: Minimal theme
-logo: /assets/img/logo.png
-description: Minimal is a theme for GitHub Pages.
-show_downloads: true
-google_analytics:
+title: <p align="center"> Ravikant Yadav </p>
+
+description:
+  <p align="center">
+  <a href="pdf/resume.pdf">Resume</a> |
+  <a href="https://www.linkedin.com/in/ravikant-yadav-9242691ba">LinkedIn</a> |
+  <a href="https://github.com/ravikantydv">GitHub</a>
+ 
+  <br>  
+ 🌟 Data Analyst at Synergy Systems
+ I'm a Subject Matter Expert, leading the Rise Club for research. I'm also a video editor, Android developer and more.
+  <br>
+  </p>
+
+
+
 theme: jekyll-theme-minimal
